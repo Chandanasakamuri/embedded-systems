@@ -12,7 +12,7 @@ These mini projects serve as a foundation for learning how embedded systems inte
 
 ### 1️⃣ Humidity & Temperature Detector
 
-A system that measures real-time *humidity and temperature* using the *DHT11/DHT22 sensor* and displays the readings via the serial monitor or LCD.
+A system that measures real-time humidity and temperature using the DHT11/DHT22 sensor and displays the readings via the serial monitor or LCD.
 
 #### 🔌 Components Used
 - Arduino Uno
